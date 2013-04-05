@@ -1,0 +1,16 @@
+1. Realizacjê projektu podjêto w celu usprawnienia sprzeda¿y sprzêtu audio i dotarcia do wiêkszego krêgu odbiorców. Stworzone go z myœl¹ o tym, ¿e sprzeda¿ internetowa mo¿e byæ dla wielu klientów znacznie ³atwiejsza ni¿ odbiór osobisty w sklepie, jednak ta mo¿liwoœæ nie jest wykluczona - klient bêdzie móg³ zamówiæ towar do wybranego punktu i tam b¹dŸ odebraæ go osobiœcie, b¹dŸ obejrzeæ i ewentualnie przetestowaæ. Powiêkszy to liczbê nabywców, poniewa¿ kto bêdzie chcia³ kupiæ przedmiot, zjawiaj¹c siê po niego osobiœcie, i tak go kupi, a osoby chc¹ce mieæ go dostarczonego do domu, zyskaj¹ tak¹ mo¿liwoœæ.
+
+2. Osoba zlecaj¹ca realizacjê: sklep "AudioCross".
+Ewentualni nabywcy: wszystkie osoby potencjalnei chc¹ce nabyæ sprzêt graj¹cy.
+Osoby równie¿ mog¹ce mieæ wp³yw na realizacjê projektu: w³aœciciel firmy, wszystkie osoby wchodz¹ce w sk³ad personelu sklepu, tj. pracownicy poszczególnych punktów sprzeda¿y, administratorzy sieci, projektanci witryny internetowej, firma przewozowa (z któr¹ zostanie zawarta wspó³praca w zwi¹zku z dowozem towaru do nabywcy), dostawcy towarów zamówionych do poszczególnych punktów, pracownicy serwisu.
+
+3. U¿ytkownicy:
+- w³aœciciel sklepu: ogólne zarz¹dzanie sklepem, nadzór pracy
+- pracownicy poszczególnych punktów: sprzeda¿ produktów, bezpoœredni kontakt z klientem, za³atwianie spraw w zwi¹zku z reklamacj¹
+- administratorzy sieci: nadzór nad dzia³aniem sieci
+- projektanci strony internetowej: stworzenie strony internetowej
+- firma przewozowa: dostarczanie towarów (b¹dŸ sprzêtu po naprawie) do klientów, 
+- dostawcy towaru: dostarczanie sprzêtu do psozczególnych punktów sprzeda¿y
+- pracownicy serwisu: przyjmowanie reklamacji, naprawa sprzêtu, ewentualna wymiana
+
+4. Ograniczenia:
